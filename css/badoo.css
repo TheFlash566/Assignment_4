@@ -1,0 +1,144 @@
+.slide_1 {
+	background-image: url("../img/num1.JPG");
+	background-repeat: no-repeat;
+	height: 500px;
+	background-size: 100%;
+	background-position: center;
+}
+
+.slide_2 {
+	background-image: url("../img/butterfly.webp");
+	background-repeat: no-repeat;
+	height: 500px;
+	background-size: 100%;
+	background-position: center;
+}
+
+.slide_3 {
+	background-image: url("../img/peace.webp");
+	background-repeat: no-repeat;
+	height: 500px;
+	background-size: 100%;
+	background-position: center;
+}
+
+.ogbeni {
+	padding: 100px 0px;
+	background-color: #ddd;
+}
+
+.dowell {
+	padding: 100px 0px 100px 0px;
+	background-color: white;
+}
+
+.footer {
+	background-color: black;
+	height: 50px;
+	padding: 12px 0px 12px 0px;
+	text-align: center;
+}
+
+.bold {
+	font-size: 20px;
+	color: white;
+}
+
+.monkey {
+	background: #cccc;
+}
+
+/*iphhone SE screen size*/
+@media screen and (min-width: 375px) {
+  .slide_1 {
+   height: 250px;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .slide_2 {
+   height: 250px;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  .slide_3 {
+   height: 250px;
+  }
+}
+
+/*samsung galaxy s8 screen size*/
+@media screen and (min-width: 360px) {
+  .slide_1 {
+   height: 242px;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  .slide_2 {
+   height: 242px;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  .slide_3 {
+   height: 242px;
+  }
+}
+
+/*galaxy fold screen size*/
+@media screen and (min-width: 280px) {
+  .slide_1 {
+   height: 186px;
+  }
+}
+
+@media screen and (min-width: 280px) {
+  .slide_2 {
+   height: 186px;
+  }
+}
+
+@media screen and (min-width: 280px) {
+  .slide_3 {
+   height: 186px;
+  }
+}
+
+/*nest hub max screen size*/
+@media screen and (min-width: 1280px) {
+  .slide_1 {
+   height: 500px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .slide_2 {
+   height: 500px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .slide_3 {
+   height: 500px;
+  }
+}
+
+/*nest hub screen size*/
+@media screen and (min-width: 1024px) {
+  .slide_1 {
+   height: 300px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .slide_2 {
+   height: 300px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .slide_3 {
+   height: 300px;
+  }
+}
