@@ -143,5 +143,23 @@
   }
 }
 
+/*laptop screen size*/
+@media screen and (min-width: 1024px) {
+  .slide_1 {
+   height: 500px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .slide_2 {
+   height: 500px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .slide_3 {
+   height: 500px;
+  }
+}
 
 
